@@ -4,7 +4,7 @@
 
 Este repositorio contiene una serie de desafíos de algoritmos en JavaScript que te ayudarán a mejorar tus habilidades de programación y lógica. Cada desafío está diseñado para poner a prueba tu capacidad para resolver problemas algorítmicos de manera eficiente.
 
-<img align="right" alt="img" src="https://raw.githubusercontent.com/programador5781/challengeDb/main/Team%20goals-pana.png" width="50%" height="auto" />
+<img align="right" alt="img" src="https://raw.githubusercontent.com/programador5781/challenge-JavaScript-II/main/Pull%20request-amico.png" width="50%" height="auto" />
 
 ## ¿Cómo funciona?
 
