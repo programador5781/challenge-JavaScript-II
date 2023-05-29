@@ -1,0 +1,23 @@
+{
+  "name": "challengedb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dbI.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programador5781/challengeDb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programador5781/challengeDb/issues"
+  },
+  "homepage": "https://github.com/programador5781/challengeDb#readme",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
