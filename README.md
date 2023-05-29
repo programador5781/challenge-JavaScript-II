@@ -10,6 +10,7 @@ Este repositorio contiene una serie de desafíos de algoritmos en JavaScript que
 
 Cada desafío se presenta en un archivo separado junto con una descripción del problema y los requisitos. Tu objetivo es implementar una solución en JavaScript y verificar si tu implementación cumple con los casos de prueba proporcionados.
 
+
 ## Cómo utilizar este repositorio
 
 1. Clona este repositorio en tu máquina local.
@@ -40,6 +41,12 @@ npm test <nombre_del_archivo>.test.js
 Ejemplo *npm test JSI.test.js* esto correrá el test para el ejercicio JSI
 
 5. Si todas las pruebas pasan, ¡felicidades! Has resuelto el desafío con éxito. Si alguna prueba falla, revisa tu código y realiza las correcciones necesarias hasta que todas las pruebas pasen.
+
+## Carpeta con posibles soluciones  
+
+Te animo a que intentes resolver estos ejercicios por tu cuenta antes de revisar las soluciones proporcionadas. La resolución de problemas es una habilidad clave en el mundo de la programación, y practicarla te ayudará a fortalecer tus habilidades y mejorar tu pensamiento lógico.
+
+No te preocupes si encuentras dificultades en el camino. El aprendizaje proviene de enfrentar desafíos y superar obstáculos. No dudes en explorar diferentes enfoques, investigar y buscar ayuda cuando lo necesites.
 
 ## Contribuciones
 
