@@ -1,6 +1,6 @@
 // ⚠️ No cambiar nada en este archivo
 
-const ParkingSystem = require('../Desafios/dbI');
+const ParkingSystem = require('../Desafios/JSI');
 
 describe('ParkingSystem', () => {
   let parkingSystem;

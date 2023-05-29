@@ -1,4 +1,4 @@
-# Desafíos de Algoritmos en JavaScript 
+# Desafíos de Algoritmos en JavaScript II
 
 ¡Bienvenido/a!
 
@@ -34,7 +34,7 @@ Si tienes algún desafío interesante que te gustaría agregar a este repositori
 
 ¡Diviértete resolviendo los desafíos y mejorando tus habilidades de programación en JavaScript!
 
-Si tienes alguna pregunta o necesitas ayuda con algún desafío, no dudes en abrir un problema o ponerte en contacto conmigo.
+Si tienes alguna pregunta o necesitas ayuda con algún desafío, no dudes en abrir un problema o ponerte en contacto conmigo. 
 
 ¡Happy coding!
 
