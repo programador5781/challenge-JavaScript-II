@@ -1,4 +1,4 @@
-# Desafíos de Algoritmos en JavaScript | Database
+# Desafíos de Algoritmos en JavaScript 
 
 ¡Bienvenido/a!
 
@@ -39,6 +39,6 @@ Si tienes alguna pregunta o necesitas ayuda con algún desafío, no dudes en abr
 ¡Happy coding!
 
 <sub>Credits to: <br/>[@freepik]
-[awesome picture](https://i.postimg.cc/4NpPFYQq/Team-goals-pana.png)</sub>
+(<a href="https://storyset.com/people">People illustrations by Storyset</a>)</sub>
 
 [!["Buy me a coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/programador5781)
