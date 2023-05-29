@@ -24,7 +24,20 @@ npm install
 
 3. Implementa tu solución para cada desafío en JavaScript.
 
-4. Ejecuta las pruebas para verificar si tu solución es correcta. Las pruebas se encuentran en la carpeta `Test`  están escritas utilizando el framework de pruebas Jest.
+4. Ejecuta las pruebas para verificar si tu solución es correcta. Las pruebas se encuentran en la carpeta `Test`  están escritas utilizando el framework de pruebas Jest.  
+Para ejecutar las pruebas simplemente ejecuta:  
+
+```bash
+npm test
+```
+
+Esto correrá todos los test. Si deseas solo correr el test del ejercicio que estás trabajando solo ejecuta:  
+
+```bash
+npm test <nombre_del_archivo>.test.js
+```
+
+Ejemplo *npm test JSI.test.js* esto correrá el test para el ejercicio JSI
 
 5. Si todas las pruebas pasan, ¡felicidades! Has resuelto el desafío con éxito. Si alguna prueba falla, revisa tu código y realiza las correcciones necesarias hasta que todas las pruebas pasen.
 
