@@ -42,6 +42,22 @@ Ejemplo *npm test JSI.test.js* esto correrá el test para el ejercicio JSI
 
 5. Si todas las pruebas pasan, ¡felicidades! Has resuelto el desafío con éxito. Si alguna prueba falla, revisa tu código y realiza las correcciones necesarias hasta que todas las pruebas pasen.
 
+6. Si deseas que los test se ejecuten automáticamente sin que tu escribas el comando cada vez que terminas un ejercicio, entonces escribe el comando:
+
+```bash
+npm run test:watch
+```
+Nodemon se ejecutará y estará observando los cambios en los archivos. Cada vez que se detecte un cambio, nodemon ejecutará automáticamente el comando npm test, lo que a su vez ejecutará Jest y ejecutará los test.
+
+Esto te permitirá tener un flujo de trabajo más eficiente mientras resuelves los ejercicios. Cada vez que guardes la posible solución de un desafío, nodemon detectará el cambio y volverá a ejecutar los test automáticamente sin necesidad de que escribas el comando npm test manualmente.
+
+Si deseas detener la observación de cambios en los archivos por parte de nodemon, puedes interrumpir su ejecución en la línea de comandos presionando *Ctrl + C*. Esto detendrá la ejecución de nodemon y dejará de vigilar los cambios en los archivos.
+
+Al presionar *Ctrl + C*, nodemon mostrará un mensaje indicando que se ha interrumpido la ejecución. A partir de ese momento, ya no se reiniciará automáticamente ni se ejecutará ninguna acción adicional en respuesta a los cambios en los archivos.
+
+Es importante tener en cuenta que cada vez que desees volver a utilizar nodemon para observar cambios en los archivos y reiniciar automáticamente una aplicación o una tarea, deberás ejecutar el comando correspondiente nuevamente en la línea de comandos.  
+
+
 ## Carpeta con posibles soluciones  
 
 Te animo a que intentes resolver estos ejercicios por tu cuenta antes de revisar las soluciones proporcionadas. La resolución de problemas es una habilidad clave en el mundo de la programación, y practicarla te ayudará a fortalecer tus habilidades y mejorar tu pensamiento lógico.

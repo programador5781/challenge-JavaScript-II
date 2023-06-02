@@ -7,12 +7,12 @@
 
 var ParkingSystem = function(big, medium, small) {
     // Tu código acá:
-
+   
 };
 
 ParkingSystem.prototype.addCar = function(carType) {
     // Tu código acá:
-
+    
 };
 
 // Ejemplo de uso
